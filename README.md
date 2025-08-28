@@ -44,6 +44,4 @@ Multilingual support 🌐
 📩 unnathgowda2520@gmail.com
 
 
-Tools & Libraries: SQLAlchemy, Flask-Mail (if used), etc.
 
-Version Control: Git & GitHub
